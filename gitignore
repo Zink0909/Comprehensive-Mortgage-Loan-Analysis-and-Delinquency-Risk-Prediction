@@ -1,0 +1,32 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter runtime
+*.ipynb
+
+# Virtual environments
+env/
+venv/
+
+# Data files
+*.csv
+*.xlsx
+*.h5
+
+# System files
+.DS_Store
+
+# VSCode / IDE settings
+.vscode/
+.idea/
+
+# Notebook outputs
+*.png
+*.svg
+
+# Python environment logs
+pip-log.txt

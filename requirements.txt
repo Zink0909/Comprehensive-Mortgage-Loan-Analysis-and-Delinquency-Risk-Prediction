@@ -1,0 +1,13 @@
+beautifulsoup4
+ipython
+ipywidgets
+lightgbm
+matplotlib
+numpy
+openpyxl
+pandas
+requests
+scikit-learn
+scipy
+seaborn
+xgboost
