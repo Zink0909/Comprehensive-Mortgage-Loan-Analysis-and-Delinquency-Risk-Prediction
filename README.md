@@ -1,12 +1,12 @@
-# 📊 Mortgage Loan Analysis & Delinquency Risk Prediction
+# Mortgage Loan Analysis & Delinquency Risk Prediction
 
 This project conducts a comprehensive analysis of mortgage loan data from three critical years—**2008**, **2020**, and **2022**—capturing the evolving patterns before, during, and after financial stress periods. The analysis covers key indicators such as **Loan Age**, **LTV (Loan-to-Value)**, **Interest Rate**, and other financial metrics.
 
 ---
 
-## 📌 Key Features
+## Key Features
 
-### 🔍 Year-by-Year Comparative Analysis
+### Year-by-Year Comparative Analysis
 - Deep dive into loan characteristics in **2008**, **2020**, and **2022**
 - Visual comparisons of distributions for:
   - **Loan Age**
@@ -14,7 +14,7 @@ This project conducts a comprehensive analysis of mortgage loan data from three 
   - **Interest Rate**
   - And more
 
-### 🧠 Machine Learning: Delinquency Risk Prediction
+### Machine Learning: Delinquency Risk Prediction
 - Predictive modeling of loan delinquency using:
   - `Logistic Regression`
   - `Random Forest`
@@ -24,7 +24,7 @@ This project conducts a comprehensive analysis of mortgage loan data from three 
   - `Cross-validation`
   - `Feature Importance`
 
-### 🧮 Loan-Level Interactive Analysis
+### Loan-Level Interactive Analysis
 - For a given **Loan Sequence Number**, the notebook:
   - Evaluates **refinancing potential**
   - Computes **breakeven period**
@@ -33,7 +33,7 @@ This project conducts a comprehensive analysis of mortgage loan data from three 
 
 ---
 
-## 📦 Tools & Libraries Used
+## Tools & Libraries Used
 - `pandas`, `numpy`, `matplotlib`, `seaborn`
 - `scikit-learn`, `xgboost`
 - `ipywidgets` for interactivity
@@ -41,7 +41,7 @@ This project conducts a comprehensive analysis of mortgage loan data from three 
 
 ---
 
-## 🧠 Use Cases
+## Use Cases
 - Understand mortgage trends across turbulent periods
 - Assess refinancing strategy for individual loans
 - Build or benchmark delinquency prediction models
@@ -49,7 +49,7 @@ This project conducts a comprehensive analysis of mortgage loan data from three 
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 - Integration with real-time or live mortgage data APIs
 - More refined UI/UX for loan calculators
 - Deployment as a standalone web app
